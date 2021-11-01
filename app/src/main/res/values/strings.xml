@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppSav</string>
+    <string name="editTextUserName">Usuario</string>
+    <string name="editTextPassword">Contraseña</string>
+    <string name="buttonLogin">INGRESAR</string>
+    <string name="txtLinkRegisterUser">No tienes usuario, registrate aqui.</string>
+    <string name="titleRegisterUser">REGISTRO DE USUARIO</string>
+    <string name="textHelpRegisterUser">Para ingresar a la aplicación, usted necesita registrarse, proporcionando los siguientes datos: nombres, apellidos, numero de cedula de identidad,  nombre de usuario y una contraseña.</string>
+    <string name="ediTextFormRegisterUserName">Nombres</string>
+    <string name="editTextFormRegisterUserLastName">Apellidos</string>
+    <string name="editTextRegisterUserCi">Número Cédula Identidad</string>
+    <string name="editTextRegisterUserUserName">Nombre de usuario</string>
+    <string name="editTextRegisterUserPassword">Contraseña</string>
+    <string name="buttonRegisterUser">REGISTRAR</string>
+    <string name="textRegisterUserGoLogin">volver a pantalla de Inicio de Sesión.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo_color"
+    tools:context=".views.fragments.InicioFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:id="@+id/buttonImageVetAs"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="32dp"
+            android:src="@drawable/button_av_v2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:contentDescription="buttonImageVetAS"/>
+
+        <ImageButton
+            android:id="@+id/buttonImageSe"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="24dp"
+            android:src="@drawable/button_se_v2"
+            app:layout_constraintEnd_toEndOf="@+id/buttonImageVetAs"
+            app:layout_constraintStart_toStartOf="@+id/buttonImageVetAs"
+            app:layout_constraintTop_toBottomOf="@+id/buttonImageVetAs"
+            android:contentDescription="buttonImageSE"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

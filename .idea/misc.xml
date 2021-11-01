@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/drawable/fondo_color.xml" value="0.1078125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/activity_login.xml" value="0.2421875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/activity_main.xml" value="0.228125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/activity_register_user.xml" value="0.4" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/fragment_form_vet_assisted.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/fragment_inicio.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/fragment_list_vet_assisted.xml" value="0.17199558985667035" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/item_asistido_veterinario.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/item_asistido_veterinario_v.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/menu.xml" value="0.121875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/layout/nav_header.xml" value="0.121875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/AppSav/app/src/main/res/menu/menu.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.12708333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
